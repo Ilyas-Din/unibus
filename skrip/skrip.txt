@@ -1,0 +1,56 @@
+--Introduction--
+
+1. just read the brosure
+
+
+--Objective--
+
+1. enhance campus life using GPS tracking system by Arduino
+	- improving the existing technology
+	- adding new feature (real-time location)
+
+2. optimize transportation efficiency
+	- allow user (student) to manage their time properly
+
+
+--Problem Statement--
+
+1. no real-time location provided = can't plan their time wisely
+
+2. safety concerns
+	- the location can't be exactly located = the rescue team can't save it immidiately
+
+
+--Solution--
+
+1. Muiz bgtau cara arduino berfungsi
+2. Iqbal bgtau cara apps berfungsi
+
+
+--Impact--
+
+1. students can make a decision between waiting the bus or using other public transportation
+
+2. students can plan their time wisely if the are knowing the location of their 
+   university's busses
+
+3. improving productivity for student in their study
+
+
+--Commercialisation--
+
+
+1. potential to cooperate with any telecommunication companies to provide the SIM 
+card for each model.
+
+
+
+--Conclusion--
+
+1. with this product, user will concerned about the importance in managing their time wisely
+	- INAQ : diriwayatkan Ibnu Abbas, Rasulullah SAW bersabda:
+
+“Siapkan lima sebelum (datangnya) lima. Masa hidupmu sebelum datangnya waktu matimu. 
+Masa sehatmu sebelum datangnya waktu sakitmu, masa senggangmu sebelum datang masa 
+sibukmu, masa mudamu sebelum datang masa tuamu, dan masa kayamu sebelum datang masa 
+miskinmu.” (HR. Baihaqi)
